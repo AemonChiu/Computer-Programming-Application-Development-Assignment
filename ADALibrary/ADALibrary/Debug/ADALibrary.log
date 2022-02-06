@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dylan\OneDrive - The Hong Kong Polytechnic University\2020-21\2020-21 Sem1\ENG2002\ADA\ADALibrary\ADALibrary\Source.cpp(27,30): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\dylan\OneDrive - The Hong Kong Polytechnic University\2020-21\2020-21 Sem1\ENG2002\ADA\ADALibrary\ADALibrary\Source.cpp(27,52): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+  ADALibrary.vcxproj -> C:\Users\dylan\OneDrive - The Hong Kong Polytechnic University\2020-21\2020-21 Sem1\ENG2002\ADA\ADALibrary\Debug\ADALibrary.lib
