@@ -1,5 +1,5 @@
 # Computer-Programming-Application-Development-Assignment
-Application Development Assignment in the subject Computer Programming, 2020/21 Semester 1, PolyU
+Application Development Assignment in the PolyU subject Computer Programming, 2020/21 Semester 1
 
 Worked together with LIU Yuzhong
 
